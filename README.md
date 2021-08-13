@@ -1,4 +1,4 @@
-# Personal Portofolio
+# Amyar's Personal Portofolio
 
 Minimalism portofolio webpage by single-page-app frontend framework.
 | Title | Link |
